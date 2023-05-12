@@ -5,5 +5,5 @@ I performed analysis on the sales data of a fictional pizza restaurant for a per
 - Create tables and load the data into Microsoft SQL Server Management Studio
 - Exploration of the data
 - Data Analysis with Power BI
- [To interact with my dashboard for this project] (https://www.mavenanalytics.io/project/5453)
+- [To interact with my dashboard for this project] (https://www.mavenanalytics.io/project/5453)
 
