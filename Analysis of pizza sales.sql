@@ -255,8 +255,8 @@ CASE
 FROM reveue_quarter
 ;
 --b.  By month
--- The month with the greatest total revenue was July but November had the greatest percent increase in total revenue
--- The lowest total revenue was generated in Oct.
+-- The month with the greatest total revenue was July but November had the most significant percentage increase in total revenue.
+-- The lowest total revenue was generated in October.
 
 WITH monthly_revenue AS(
 SELECT
