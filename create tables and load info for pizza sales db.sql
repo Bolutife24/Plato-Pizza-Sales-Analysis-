@@ -42,7 +42,7 @@ GO
 
 -- import the file
 BULK INSERT  dbo.pizza
-FROM 'inserted the file path for this data'
+FROM 'inserted the file path for this data'  # insert your file path for the data
 WITH
 (
         FORMAT='CSV',
@@ -51,7 +51,7 @@ WITH
 GO
 
 BULK INSERT  dbo.pizza_type
-FROM 'inserted the file path for this data'
+FROM 'inserted the file path for this data'  # insert your file path for the data
 WITH
 (
         FORMAT='CSV',
@@ -60,7 +60,7 @@ WITH
 GO
 
 BULK INSERT  orders_info
-FROM 'inserted the file path for this data'
+FROM 'inserted the file path for this data'  # insert your file path for the data
 WITH
 (
         FORMAT='CSV',
@@ -70,7 +70,7 @@ GO
 
 
 BULK INSERT  order_details_info
-FROM 'inserted the file path for this data'
+FROM 'inserted the file path for this data' # insert your file path for the data
 WITH
 (
         FORMAT='CSV',
