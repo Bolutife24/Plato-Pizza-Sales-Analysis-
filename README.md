@@ -13,7 +13,7 @@ This dataset was obtained from (https://www.mavenanalytics.io/data-playground)
 - What are the top 10 best and least sold pizzas?
 - Which ingredients are the most and least ordered?
 - What is the distribution of orders by quarter, month, day, and hour?
-- What is the distribution of orders by quarter, month, and day?
+- What is the total revenue by quarter, month, and day?
 ## Business Needs
 - As a restaurant owner, which pizza type and category are the most ordered?
 - What are the peak periods of orders?
